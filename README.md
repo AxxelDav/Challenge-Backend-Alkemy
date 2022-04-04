@@ -4,4 +4,3 @@ Este es el proyecto correspondiente al Challenge de Alkemy. Las tecnologías usa
 Java - 1.8.x +
 Maven - 3.x.x +
 PostgreSQL 9.x +
-# Pasos para Configurar
